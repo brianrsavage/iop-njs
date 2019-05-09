@@ -1,6 +1,6 @@
 {
   "name": "iop-njs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "exploring moving the inside out project to a NodeJS Server",
   "main": "index.js",
   "directories": {
